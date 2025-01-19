@@ -68,4 +68,4 @@ Model kıyaslama gemini2.0 vs Fine-Tunning
 
 ![goruntu6.PNG](https://github.com/sinanbalibey/gaichatbot/blob/main/img/goruntu6.PNG)
 
-![goruntu7.PNG](https://github.com/sinanbalibey/gaichatbot/blob/main/img/goruntu7.PNG)
+
