@@ -44,28 +44,28 @@ Projeyi canlı olarak deneyimlemek için aşağıdaki bağlantıyı kullanabilir
 
 Çekilen Veriler
 
-![goruntu8.PNG](goruntu8.png)
+![goruntu8.PNG](https://github.com/sinanbalibey/gaichatbot/blob/main/img/goruntu8.PNG)
 
 Eğitim Performansı
 
-![goruntu1.PNG](goruntu1.png)
+![goruntu1.PNG](https://github.com/sinanbalibey/gaichatbot/blob/main/img/goruntu1.PNG)
 
 Model kıyaslama gemini2.0 vs Fine-Tunning
 
-![goruntu2.PNG](goruntu2.png)
+![goruntu2.PNG](https://github.com/sinanbalibey/gaichatbot/blob/main/img/goruntu2.PNG)
 
 Model kıyaslama gemini2.0 vs Fine-Tunning
 
-![goruntu3.PNG](goruntu3.png)
+![goruntu3.PNG](https://github.com/sinanbalibey/gaichatbot/blob/main/img/goruntu3.PNG)
 
 Model kıyaslama gemini2.0 vs Fine-Tunning
 
-![goruntu4.PNG](goruntu4.png)
+![goruntu4.PNG](https://github.com/sinanbalibey/gaichatbot/blob/main/img/goruntu4.PNG)
 
 Model kıyaslama gemini2.0 vs Fine-Tunning
 
-![goruntu5.PNG](goruntu5.png)
+![goruntu5.PNG](https://github.com/sinanbalibey/gaichatbot/blob/main/img/goruntu5.PNG)
 
-![goruntu6.PNG](goruntu6.png)
+![goruntu6.PNG](https://github.com/sinanbalibey/gaichatbot/blob/main/img/goruntu6.PNG)
 
-![goruntu7.PNG](goruntu7.png)
+![goruntu7.PNG](https://github.com/sinanbalibey/gaichatbot/blob/main/img/goruntu7.PNG)
